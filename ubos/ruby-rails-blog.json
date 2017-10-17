@@ -1,0 +1,17 @@
+{
+   "hostname" : "*",
+   "siteid" : "s5d3a66f0230aaa5373659078d8396416c6dd4e6a",
+   "appconfigs" : [
+      {
+         "appid" : "ruby-rails-blog",
+         "context" : "",
+         "appconfigid" : "afd22349e0404dbfef8f890878f7869fabcb231a8"
+      }
+   ],
+   "admin" : {
+      "credential" : "qwerqwer",
+      "userid" : "admin",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   }
+}

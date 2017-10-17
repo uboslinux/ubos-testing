@@ -1,0 +1,106 @@
+{
+   "hostname" : "HHHH",
+   "admin" : {
+      "username" : "admin",
+      "credential" : "qwerqwer",
+      "userid" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "siteid" : "s718c675dfc099380a8c02ab7d8f2d345afbe6d24",
+   "appconfigs" : [
+      {
+         "appid" : "amazonses",
+         "appconfigid" : "aedbfd28c30612f9414b9ae0f84f865f41eb53990",
+         "customizationpoints" : {
+            "amazonses" : {
+               "aws_secret_key" : {
+                  "value" : "placeholder-secret-key"
+               },
+               "aws_access_key_id" : {
+                  "value" : "placeholder-access-key-id"
+               }
+            }
+         }
+      },
+      {
+         "context" : "/helloworld",
+         "appconfigid" : "a91172c656d953caebe57cb3d4343d1be0fe3569a",
+         "appid" : "helloworld"
+      },
+      {
+         "context" : "/gladiwashere-php-mysql",
+         "appconfigid" : "a25380731a12997fa12109694c1c525d3084f18d4",
+         "customizationpoints" : {
+            "gladiwashere-php-mysql-footer" : {
+               "message" : {
+                  "value" : "Footer XXX message"
+               }
+            }
+         },
+         "accessoryids" : [
+            "gladiwashere-php-mysql-footer"
+         ],
+         "appid" : "gladiwashere-php-mysql"
+      },
+      {
+         "appid" : "gladiwashere-php-postgresql",
+         "appconfigid" : "a6a55843d89b8c2650e40daa29f82c10b61d85419",
+         "context" : "/gladiwashere-php-postgresql"
+      },
+      {
+         "context" : "/gladiwashere-python-mysql",
+         "appconfigid" : "abf6dd050235ebed129dfa3947e418a22d088cf1a",
+         "appid" : "gladiwashere-python-mysql"
+      },
+      {
+         "context" : "/gladiwashere-java-mysql",
+         "appconfigid" : "a09424d3a381089e58c99f46c57d6a2909e74844b",
+         "appid" : "gladiwashere-java-mysql"
+      },
+      {
+         "appconfigid" : "a0ce1f5fb9883b1fbe3524e3a620fd50fe48f7a96",
+         "context" : "/workout-dir1",
+         "appid" : "workout-dir1"
+      },
+      {
+         "appid" : "workout-file1",
+         "context" : "/workout-file1",
+         "appconfigid" : "a869a4bf10aac4ec1d9c0d82133af971b1face43b"
+      },
+      {
+         "appid" : "workout-file2",
+         "appconfigid" : "a809ac724b9792b0397797df922d7e7fdfd4cf4f1",
+         "context" : "/workout-file2"
+      },
+      {
+         "appid" : "workout-mysql1",
+         "context" : "/workout-mysql1",
+         "appconfigid" : "a93cfb005555fe97d750793d79ef6e58e2fc4c643"
+      },
+      {
+         "context" : "/workout-mysql2",
+         "appconfigid" : "aac0d185645e97b16d1c966596b760c3dd25ba683",
+         "appid" : "workout-mysql2"
+      },
+      {
+         "appid" : "workout-perlscript1",
+         "context" : "/workout-perlscript1",
+         "appconfigid" : "a55402c2d94e7494c0c886a7c8dd24b5d75317526"
+      },
+      {
+         "appid" : "workout-symlink1",
+         "appconfigid" : "aa0e469fd2385be0cf591ec9b5f7c6f87703c92fe",
+         "context" : "/workout-symlink1"
+      },
+      {
+         "appconfigid" : "abd87c87f09ef4a6c1b6cd250a413ac6c2bc926ff",
+         "context" : "/workout-tree1",
+         "appid" : "workout-tree1"
+      },
+      {
+         "appid" : "workout-tree2",
+         "appconfigid" : "a905e9d1d6c44410ebbf6cd1a9ec5f9c5c135aa19",
+         "context" : "/workout-tree2"
+      }
+   ]
+}
