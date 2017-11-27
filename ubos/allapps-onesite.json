@@ -56,51 +56,6 @@
          "context" : "/gladiwashere-java-mysql",
          "appconfigid" : "a09424d3a381089e58c99f46c57d6a2909e74844b",
          "appid" : "gladiwashere-java-mysql"
-      },
-      {
-         "appconfigid" : "a0ce1f5fb9883b1fbe3524e3a620fd50fe48f7a96",
-         "context" : "/workout-dir1",
-         "appid" : "workout-dir1"
-      },
-      {
-         "appid" : "workout-file1",
-         "context" : "/workout-file1",
-         "appconfigid" : "a869a4bf10aac4ec1d9c0d82133af971b1face43b"
-      },
-      {
-         "appid" : "workout-file2",
-         "appconfigid" : "a809ac724b9792b0397797df922d7e7fdfd4cf4f1",
-         "context" : "/workout-file2"
-      },
-      {
-         "appid" : "workout-mysql1",
-         "context" : "/workout-mysql1",
-         "appconfigid" : "a93cfb005555fe97d750793d79ef6e58e2fc4c643"
-      },
-      {
-         "context" : "/workout-mysql2",
-         "appconfigid" : "aac0d185645e97b16d1c966596b760c3dd25ba683",
-         "appid" : "workout-mysql2"
-      },
-      {
-         "appid" : "workout-perlscript1",
-         "context" : "/workout-perlscript1",
-         "appconfigid" : "a55402c2d94e7494c0c886a7c8dd24b5d75317526"
-      },
-      {
-         "appid" : "workout-symlink1",
-         "appconfigid" : "aa0e469fd2385be0cf591ec9b5f7c6f87703c92fe",
-         "context" : "/workout-symlink1"
-      },
-      {
-         "appconfigid" : "abd87c87f09ef4a6c1b6cd250a413ac6c2bc926ff",
-         "context" : "/workout-tree1",
-         "appid" : "workout-tree1"
-      },
-      {
-         "appid" : "workout-tree2",
-         "appconfigid" : "a905e9d1d6c44410ebbf6cd1a9ec5f9c5c135aa19",
-         "context" : "/workout-tree2"
       }
    ]
 }
