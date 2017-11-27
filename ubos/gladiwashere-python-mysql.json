@@ -1,0 +1,18 @@
+{
+   "hostname" : "*",
+   "siteid" : "s70ceb0f75619cea4fc9feb4dcdc9e21a63e63eee",
+   "admin" : {
+      "username" : "admin",
+      "credential" : "qwerqwer",
+      "userid" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "appconfigs" : [
+      {
+         "appconfigid" : "a952684dd141105c25ca067ef4c6528b601f617a3",
+         "context" : "/guestbook",
+         "appid" : "gladiwashere-python-mysql"
+      }
+   ]
+}
+
