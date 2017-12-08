@@ -1,0 +1,24 @@
+{
+   "siteid" : "se1b44ba2e40c27909eaa04543abd36941a3dd0a4",
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "email" : "test@ubos.net",
+      "username" : "admin"
+   },
+   "hostname" : "testsite",
+   "appconfigs" : [
+      {
+         "customizationpoints" : {
+            "docroot" : {
+               "publicsshkey" : {
+                  "value" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUXmOKn+BgMeDk+U74WJyl5xpjez3KQkb25o0kS3ZgHrBQ9NQVCoLRWiIROo0KqJ0cFnRoxngOk3npM7vc5pHu6ImtTwlRgNIvOiAogXRbZgINRMsgtNKqqqemIO4/EhFNa6bYf1MLIm5aEHpFlghBnYhCw9w3K2qUFme+tevXckYtVc+T2/dJwDMfOjs/8YxVnIR9TdGyRA4cuIZvZdl2LWsEgXObShtifJavAYgXV7vbSCMgPKrPbKaoWjqqIaDFnqMio7NtvDgfOrrOtLp8ntYlrEjFKWcji08Fwyr/Iyll6jS9d0LoSfVO+Ikfp6Xp5Vtxtm7fyoulF3456L7z root@ubos-container\n"
+               }
+            }
+         },
+         "context" : "/testpath",
+         "appid" : "docroot",
+         "appconfigid" : "a62adf55617cfe3311994444f17243e1d5dce8134"
+      }
+   ]
+}

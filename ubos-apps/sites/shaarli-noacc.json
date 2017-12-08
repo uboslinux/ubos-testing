@@ -1,0 +1,17 @@
+{
+   "admin" : {
+      "email" : "test@ubos.net",
+      "userid" : "admin",
+      "username" : "admin",
+      "credential" : "qwerqwer"
+   },
+   "siteid" : "sd40ba9995b30a6f8b910c7de2b370fb68a295449",
+   "hostname" : "testsite",
+   "appconfigs" : [
+      {
+         "context" : "/testpath",
+         "appconfigid" : "a8ddc44415e5477f2579de9b364bb51ebdd45eb05",
+         "appid" : "shaarli"
+      }
+   ]
+}

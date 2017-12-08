@@ -1,0 +1,17 @@
+{
+   "appconfigs" : [
+      {
+         "appid" : "phpbb",
+         "context" : "/testpath",
+         "appconfigid" : "ae0d223ca500d66f078ddf42946481b5396989919"
+      }
+   ],
+   "siteid" : "sbefc3f9e77b01e29f46aa07a57eb36b3b87437b5",
+   "admin" : {
+      "email" : "test@ubos.net",
+      "username" : "admin",
+      "userid" : "admin",
+      "credential" : "qwerqwer"
+   },
+   "hostname" : "testsite"
+}

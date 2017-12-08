@@ -1,0 +1,17 @@
+{
+   "admin" : {
+      "username" : "admin",
+      "email" : "test@ubos.net",
+      "userid" : "admin",
+      "credential" : "qwerqwer"
+   },
+   "appconfigs" : [
+      {
+         "appconfigid" : "a6135d487827d97e8a9ea6852983d5605cb08b7ab",
+         "context" : "/testpath",
+         "appid" : "webtrees"
+      }
+   ],
+   "hostname" : "testsite",
+   "siteid" : "sa7366fce3e3919b52f30893f538444d7832cc774"
+}

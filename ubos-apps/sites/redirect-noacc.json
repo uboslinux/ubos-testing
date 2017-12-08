@@ -1,0 +1,24 @@
+{
+   "appconfigs" : [
+      {
+         "context" : "/testpath",
+         "customizationpoints" : {
+            "redirect" : {
+               "target" : {
+                  "value" : "https://ubos.net/"
+               }
+            }
+         },
+         "appconfigid" : "a1c5989a157f16e97a4392c1483cebe9eb44c28a0",
+         "appid" : "redirect"
+      }
+   ],
+   "admin" : {
+      "username" : "admin",
+      "userid" : "admin",
+      "email" : "test@ubos.net",
+      "credential" : "qwerqwer"
+   },
+   "siteid" : "se5944abcf60e2d5e877e1588f8b6f54d4d31f9b9",
+   "hostname" : "testsite"
+}

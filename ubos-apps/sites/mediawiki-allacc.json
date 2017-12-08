@@ -1,0 +1,27 @@
+{
+   "admin" : {
+      "email" : "test@ubos.net",
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin"
+   },
+   "hostname" : "testsite",
+   "siteid" : "sc810b8ac6ad21c47a487141218b44ffb29e1ab43",
+   "appconfigs" : [
+      {
+         "context" : "/testpath",
+         "appconfigid" : "ada52dfc973ad9af808991c452ecb905d1e0c4154",
+         "customizationpoints" : {
+            "mediawiki-ext-confirmaccount" : {
+               "confirmaccountcontact" : {
+                  "value" : "test@ubos.net"
+               }
+            }
+         },
+         "appid" : "mediawiki",
+         "accessoryids" : [
+            "mediawiki-ext-confirmaccount"
+         ]
+      }
+   ]
+}

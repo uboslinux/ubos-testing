@@ -1,0 +1,17 @@
+{
+   "admin" : {
+      "email" : "test@ubos.net",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "userid" : "admin"
+   },
+   "siteid" : "sd6160f2da4583a9d141370b562e4887ca68d9f20",
+   "hostname" : "testsite",
+   "appconfigs" : [
+      {
+         "appconfigid" : "a82324a8dbf15988c5c39c5e69f819c546340646b",
+         "context" : "",
+         "appid" : "mattermost"
+      }
+   ]
+}

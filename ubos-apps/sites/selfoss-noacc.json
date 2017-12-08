@@ -1,0 +1,17 @@
+{
+   "hostname" : "testsite",
+   "siteid" : "sf740e7de4b9e2ba6921b16ed13fe16dd0cb68f1c",
+   "admin" : {
+      "email" : "test@ubos.net",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "userid" : "admin"
+   },
+   "appconfigs" : [
+      {
+         "context" : "/testpath",
+         "appid" : "selfoss",
+         "appconfigid" : "a272f39a5a86d5d1e36e5ddaa7163b7430c189120"
+      }
+   ]
+}

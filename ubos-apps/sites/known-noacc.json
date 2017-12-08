@@ -1,0 +1,17 @@
+{
+   "siteid" : "s233665563c9ca9e7444ef4b1524755bc2fd56c8c",
+   "hostname" : "testsite",
+   "appconfigs" : [
+      {
+         "appid" : "known",
+         "context" : "/testpath",
+         "appconfigid" : "a3182192d592d3610746d1ef1f51d75af004ead17"
+      }
+   ],
+   "admin" : {
+      "username" : "admin",
+      "email" : "test@ubos.net",
+      "credential" : "qwerqwer",
+      "userid" : "admin"
+   }
+}
