@@ -1,0 +1,17 @@
+{
+   "appconfigs" : [
+      {
+         "appid" : "gladiwashere-php-mysql",
+         "appconfigid" : "a13d594a8713fbd0fe63c0582094e672625e8bf27",
+         "context" : "/gb"
+      }
+   ],
+   "admin" : {
+      "credential" : "qwerqwer",
+      "userid" : "admin",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "*",
+   "siteid" : "s2f2f3a2f85e9735fe55599e21a6f39009262c76e"
+}

@@ -1,0 +1,36 @@
+{
+   "admin" : {
+      "credential" : "qwerqwer",
+      "userid" : "admin",
+      "email" : "test@ubos.net",
+      "username" : "admin"
+   },
+   "hostname" : "HHHH",
+   "appconfigs" : [
+      {
+         "context" : "/sau",
+         "appid" : "wollmilchsau",
+         "accessoryids" : [
+            "wollmilchsau-one",
+            "wollmilchsau-two"
+         ],
+         "customizationpoints" : {
+            "wollmilchsau-two" : {
+               "justmetwo" : {
+                  "value" : "My other just me"
+               }
+            },
+            "wollmilchsau" : {
+               "string2" : {
+                  "value" : "My string 2"
+               }
+            },
+            "wollmilchsau-one" : {
+               "justmeone" : {
+                  "value" : "My just me"
+               }
+            }
+         }
+      }
+   ]
+}

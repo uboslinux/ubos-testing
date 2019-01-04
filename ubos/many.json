@@ -1,0 +1,70 @@
+[
+   {
+      "hostname" : "aaaa",
+      "siteid" : "saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "appconfigs" : [
+         {
+            "context" : "/aaaa",
+            "appconfigid" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "appid" : "helloworld"
+         }
+      ],
+      "admin" : {
+         "credential" : "qwerqwer",
+         "email" : "test@ubos.net",
+         "username" : "admin",
+         "userid" : "admin"
+      }
+   },
+   {
+      "hostname" : "bbbb",
+      "siteid" : "sbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "appconfigs" : [
+         {
+            "context" : "/bbbb",
+            "appconfigid" : "abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+            "appid" : "helloworld"
+         }
+      ],
+      "admin" : {
+         "credential" : "qwerqwer",
+         "email" : "test@ubos.net",
+         "username" : "admin",
+         "userid" : "admin"
+      }
+   },
+   {
+      "hostname" : "cccc",
+      "siteid" : "scccccccccccccccccccccccccccccccccccccccc",
+      "appconfigs" : [
+         {
+            "context" : "/cccc",
+            "appconfigid" : "acccccccccccccccccccccccccccccccccccccccc",
+            "appid" : "helloworld"
+         }
+      ],
+      "admin" : {
+         "credential" : "qwerqwer",
+         "email" : "test@ubos.net",
+         "username" : "admin",
+         "userid" : "admin"
+      }
+   },
+   {
+      "hostname" : "dddd",
+      "siteid" : "sdddddddddddddddddddddddddddddddddddddddd",
+      "appconfigs" : [
+         {
+            "context" : "/dddd",
+            "appconfigid" : "adddddddddddddddddddddddddddddddddddddddd",
+            "appid" : "helloworld"
+         }
+      ],
+      "admin" : {
+         "credential" : "qwerqwer",
+         "email" : "test@ubos.net",
+         "username" : "admin",
+         "userid" : "admin"
+      }
+   }
+]
