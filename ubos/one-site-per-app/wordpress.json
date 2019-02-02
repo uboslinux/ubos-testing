@@ -1,0 +1,40 @@
+{
+   "appconfigs" : [
+      {
+         "accessoryids" : [
+            "wordpress-plugin-bridgy-publish",
+            "wordpress-plugin-google-analytics-for-wordpress",
+            "wordpress-plugin-indieauth",
+            "wordpress-plugin-indieweb-post-kinds",
+            "wordpress-plugin-indieweb-press-this",
+            "wordpress-plugin-indieweb",
+            "wordpress-plugin-micropub",
+            "wordpress-plugin-photo-dropper",
+            "wordpress-plugin-semantic-linkbacks",
+            "wordpress-plugin-seo",
+            "wordpress-plugin-social-networks-auto-poster-facebook-twitter-g",
+            "wordpress-plugin-syndication-links",
+            "wordpress-plugin-webmention",
+            "wordpress-plugin-wp-mail-smtp",
+            "wordpress-plugin-wp-uf2",
+            "wordpress-theme-p2",
+            "wordpress-theme-pinboard",
+            "wordpress-theme-responsive",
+            "wordpress-theme-sempress",
+            "wordpress-theme-twentyfifteen",
+            "wordpress-theme-twentyfourteen",
+            "wordpress-theme-twentythirteen",
+            "wordpress-theme-twentytwelve"
+         ],
+         "appid" : "wordpress",
+         "context" : "/blog"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "wordpress"
+}

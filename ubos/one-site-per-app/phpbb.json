@@ -1,0 +1,19 @@
+{
+   "appconfigs" : [
+      {
+         "accessoryids" : [
+            "phpbb-extension-googleanalytics",
+            "phpbb-extension-shareon"
+         ],
+         "appid" : "phpbb",
+         "context" : "/forum"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "phpbb"
+}

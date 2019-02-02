@@ -1,0 +1,15 @@
+{
+   "appconfigs" : [
+      {
+         "appid" : "river"
+         "context" : ""
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "river"
+}

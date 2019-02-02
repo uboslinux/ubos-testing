@@ -1,0 +1,15 @@
+{
+   "appconfigs" : [
+      {
+         "appid" : "webtrees",
+         "context" : "/webtrees"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "webtrees"
+}
