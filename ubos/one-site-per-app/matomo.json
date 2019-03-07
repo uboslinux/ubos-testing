@@ -1,0 +1,15 @@
+{
+   "appconfigs" : [
+      {
+         "appid" : "matomo",
+         "context" : "/matomo"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "matomo"
+}

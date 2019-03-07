@@ -6,30 +6,26 @@
       "userid" : "admin",
       "email" : "test@ubos.net"
    },
-   "siteid" : "s718c675dfc099380a8c02ab7d8f2d345afbe6d24",
    "appconfigs" : [
       {
          "appid" : "amazonses",
-         "appconfigid" : "aedbfd28c30612f9414b9ae0f84f865f41eb53990",
          "customizationpoints" : {
             "amazonses" : {
                "aws_secret_key" : {
-                  "value" : "0123456789012345678901234567890123456789"
+                  "value" : "placeholder-secret-key"
                },
                "aws_access_key_id" : {
-                  "value" : "01234567890123456789"
+                  "value" : "placeholder-access-key-id"
                }
             }
          }
       },
       {
          "context" : "/helloworld",
-         "appconfigid" : "a91172c656d953caebe57cb3d4343d1be0fe3569a",
          "appid" : "helloworld"
       },
       {
          "context" : "/gladiwashere-php-mysql",
-         "appconfigid" : "a25380731a12997fa12109694c1c525d3084f18d4",
          "customizationpoints" : {
             "gladiwashere-php-mysql-footer" : {
                "message" : {
@@ -43,18 +39,7 @@
          "appid" : "gladiwashere-php-mysql"
       },
       {
-         "appid" : "gladiwashere-php-postgresql",
-         "appconfigid" : "a6a55843d89b8c2650e40daa29f82c10b61d85419",
-         "context" : "/gladiwashere-php-postgresql"
-      },
-      {
-         "context" : "/gladiwashere-python-mysql",
-         "appconfigid" : "abf6dd050235ebed129dfa3947e418a22d088cf1a",
-         "appid" : "gladiwashere-python-mysql"
-      },
-      {
          "context" : "/gladiwashere-java-mysql",
-         "appconfigid" : "a09424d3a381089e58c99f46c57d6a2909e74844b",
          "appid" : "gladiwashere-java-mysql"
       }
    ]

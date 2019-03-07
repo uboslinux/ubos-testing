@@ -1,0 +1,19 @@
+{
+   "appconfigs" : [
+      {
+         "accessoryids" : [
+            "known-plugin-linkedin",
+            "known-plugin-wordpress"
+         ],
+         "appid" : "known",
+         "context" : "/known"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "known"
+}

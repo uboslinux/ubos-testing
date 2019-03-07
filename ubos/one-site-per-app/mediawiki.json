@@ -1,0 +1,18 @@
+{
+   "appconfigs" : [
+      {
+         "accessoryids" : [
+            "mediawiki-ext-confirmaccount"
+         ],
+         "appid" : "mediawiki",
+         "context" : "/wiki"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "mediawiki"
+}

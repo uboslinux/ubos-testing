@@ -1,0 +1,15 @@
+{
+   "appconfigs" : [
+      {
+         "appid" : "selfoss",
+         "context" : "/selfoss"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "username" : "admin",
+      "email" : "test@ubos.net"
+   },
+   "hostname" : "selfoss"
+}
