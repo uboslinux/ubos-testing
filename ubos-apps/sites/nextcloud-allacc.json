@@ -10,13 +10,17 @@
          "appid" : "nextcloud",
          "appconfigid" : "a11298c94552bb85f26b3afbc4e246af6f5f880a7",
          "accessoryids" : [
-            "nextcloud-spreed",
-            "nextcloud-tasks",
-            "nextcloud-mail",
-            "nextcloud-notes",
+            "nextcloud-bookmarks",
+            "nextcloud-cache-redis",
             "nextcloud-calendar",
+            "nextcloud-contacts",
+            "nextcloud-mail",
+            "nextcloud-markdown",
             "nextcloud-news",
-            "nextcloud-contacts"
+            "nextcloud-notes",
+            "nextcloud-onlyoffice",
+            "nextcloud-spreed",
+            "nextcloud-tasks"
          ],
          "context" : "/testpath"
       }

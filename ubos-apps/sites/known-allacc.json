@@ -6,8 +6,7 @@
          "appid" : "known",
          "accessoryids" : [
             "known-plugin-linkedin",
-            "known-plugin-wordpress",
-            "known-plugin-mastodon"
+            "known-plugin-wordpress"
          ],
          "context" : "/testpath",
          "appconfigid" : "a3182192d592d3610746d1ef1f51d75af004ead17"
