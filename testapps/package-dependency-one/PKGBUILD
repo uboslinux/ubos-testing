@@ -1,0 +1,17 @@
+developer=http://indiecomputing.com/
+url=${developer}
+maintainer=${developer}
+pkgname=package-dependency
+pkgver=1.0
+pkgrel=1
+pkgdesc="Test app for changing dependencies in upgraded versions"
+arch=('any')
+license=("AGPL3")
+depends=()
+conflicts=('zip' 'package-dependency-two')
+install=install
+
+package() {
+# Manifest
+    install -D -m644 ${startdir}/ubos-manifest.json ${pkgdir}/ubos/lib/ubos/manifests/${pkgname}.json
+}

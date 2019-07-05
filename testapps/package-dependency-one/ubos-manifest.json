@@ -1,0 +1,12 @@
+{
+    "type" : "app",
+
+    "cardinality" : "onepersite",
+
+    "roles" : {
+        "generic" : {
+            "depends" : [
+            ]
+        }
+    }
+}
