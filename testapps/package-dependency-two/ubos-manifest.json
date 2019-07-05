@@ -5,7 +5,8 @@
 
     "roles" : {
         "generic" : {
-            "unzip" : [
+            "depends" : [
+                "unzip"
             ]
         }
     }
