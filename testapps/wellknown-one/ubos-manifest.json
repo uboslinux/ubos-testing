@@ -29,6 +29,9 @@
                     "disallow" : [
                         "/something-disallowed"
                     ]
+                },
+                "webfinger" : {
+                    "proxy" : "http://localhost:8888/"
                 }
             }
         }
