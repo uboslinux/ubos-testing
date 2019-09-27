@@ -18,5 +18,5 @@
       "username" : "admin",
       "email" : "test@ubos.net"
    },
-   "hostname" : "mastodon"
+   "hostname" : "mastodonDOMAIN"
 }
