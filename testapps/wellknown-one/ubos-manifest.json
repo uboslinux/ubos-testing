@@ -1,0 +1,39 @@
+{
+    "type" : "app",
+
+    "roles" : {
+        "apache2" : {
+            "defaultcontext" : "/wellknown-one",
+            "appconfigitems" : [
+                {
+                    "type"         : "file",
+                    "name"         : "index.html",
+                    "source"       : "index.html",
+                }
+            ],
+            "wellknown" : {
+                "one-foobar" : {
+                    "value" : "The value from wellknown-one's foobar\n"
+                },
+                "one-barfoo" : {
+                    "value" : "VGhlIHZhbHVlIGZyb20gd2VsbGtub3duLW9uZSdzIGJhcmZvbwo=",
+                    "encoding" : "base64"
+                },
+                "baz" : {
+                    "location" : "${site.protocol}://${site.hostname}${appconfig.context}/some/where"
+                },
+                "robots.txt" : {
+                    "allow" : [
+                        "/something-allowed"
+                    ],
+                    "disallow" : [
+                        "/something-disallowed"
+                    ]
+                },
+                "webfinger" : {
+                    "proxy" : "http://localhost:8888/"
+                }
+            }
+        }
+    }
+}

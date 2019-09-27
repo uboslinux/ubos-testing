@@ -5,7 +5,14 @@
             "mediawiki-ext-confirmaccount"
          ],
          "appid" : "mediawiki",
-         "context" : "/wiki"
+         "context" : "/wiki",
+         "customizationpoints" : {
+            "mediawiki-ext-confirmaccount" : {
+               "confirmaccountcontact" : {
+                  "value" : "test@ubos.net"
+               }
+            }
+         }
       }
    ],
    "admin" : {

@@ -1,0 +1,29 @@
+#!/usr/bin/bash
+
+post_install() {
+    if [[ -x /usr/bin/zip ]]; then
+        echo 'package-dependency v2 post_install(): zip installed'
+    else
+        echo 'package-dependency v2 post_install(): zip not installed'
+    fi
+    if [[ -x /usr/bin/unzip ]]; then
+        echo 'package-dependency v2 post_install(): unzip installed'
+    else
+        echo 'package-dependency v2 post_install(): unzip not installed'
+    fi
+}
+
+## arg 1: the new package version
+## arg 2: the old package version
+post_upgrade() {
+    if [[ -x /usr/bin/zip ]]; then
+        echo 'package-dependency v2 post_upgrade(): zip installed'
+    else
+        echo 'package-dependency v2 post_upgrade(): zip not installed'
+    fi
+    if [[ -x /usr/bin/unzip ]]; then
+        echo 'package-dependency v2 post_upgrade(): unzip installed'
+    else
+        echo 'package-dependency v2 post_upgrade(): unzip not installed'
+    fi
+}

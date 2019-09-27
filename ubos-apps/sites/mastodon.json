@@ -1,0 +1,28 @@
+{
+   "admin" : {
+      "credential" : "qwerqwer",
+      "email" : "test@ubos.net",
+      "userid" : "admin",
+      "username" : "admin"
+   },
+   "appconfigs" : [
+      {
+         "appconfigid" : "a7a724547c4c67b1613a292a61ae5264834b91ff9",
+         "appid" : "mastodon",
+         "customizationpoints" : {
+            "mastodon" : {
+               "singleusermode" : {
+                  "value" : false
+               }
+            }
+         },
+         "context" : ""
+      }
+   ],
+   "tls" : {
+      "crt" : "-----BEGIN CERTIFICATE-----\nMIIEojCCAooCCQCrilFF0h8DYzANBgkqhkiG9w0BAQsFADATMREwDwYDVQQDDAh0\nZXN0c2l0ZTAeFw0xODExMjAyMTM0NTFaFw0yODExMTcyMTM0NTFaMBMxETAPBgNV\nBAMMCHRlc3RzaXRlMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAsQri\nbSQMYDlwP+GLfgQIvcy921ATncqw9TSSd6Iwu+UlCWMENqj8saKJwm224RiPEbnP\nWwL0LDlh/1ugojDNZm14EU1qDq/izzeomJ70LE/6gMqa+wMsgcPRsN7pHXom6i+b\n/JIdC7GGXxo0JZpvR4xU3hFedl7cXJ8KHNsu/FL1/sakfikPZ0rV2bL+/q1dZH6f\nhT7Ds70Nz8QsZKBghQ0nwlQ1k/rhElTJe/ZoTe58WeZjtrgvBOZxDnZbzixwMgzc\nU+vmnYtwenWltdzoYOHXVzkQnJ4DfR4oWWFou55j9qwxOPMf8FEzHql81BE6hZw3\nUK36Y+crehN+CDEBLkv7S9dXnVIloGuFLcwixoDHgnfkbmB1DIjL2wo5atum6awC\noY/Pu462bFKg35MM0UQ4hXgiG7idGyydJtOupCPFNI077snw9JkNb+UMO7QSTkqx\nvJ3Zrxbjw5+vI/0X2HsocAI/87cwAFzMrzD/YN51NQerJwA1A7xFUiyE4QSLE8ar\nwyamrI1TQC16Fgfm5Tg5E9uEVJGLTOGGajDWg+9UHlKB2oCHMAoCBMfNxIUiLmLU\nk4sF3vnPfEyqCAe3C8i1vjBQ/2nKnwTZEvPJnKYP2+RdMx/4ZNvVimhG5ZjPWEY+\nCFKQa1xCYISQszA7MLTtJBj2p1Ww9fzYM3vpm4UCAwEAATANBgkqhkiG9w0BAQsF\nAAOCAgEAgHfXdWYT0SdDZ2CtWpfwVDqJsKwlIBFHR+KMC8vRql6qGcCKgQOXCVpN\n6fYZYhzzUdRrvceBRRuSTeJZwwwYsBtrkKRgNzr5KWzOSJGIf/33XqnOiFIpzQqr\nBEyFXEvZqBEgUgnnaN5NZNFxgOrO/Cai7shcVljpubaSh1B6f/Xmat18xcIurNX/\nSSi0Plq0oTDjwO30jHm+28UT3wJPpiKK9gCbJVwkRk8RbhZRQ4/OrMhpmCtKPEey\nyZj4byDUZuXOj+sJ4Tc+m1oW0PtsDuM/cIARIryiLOwIBCrQZHyUakABedPKK3Vu\npO3rQqMwFD8C1kVKRTJ8gGdsyUxmQ/18nB7qfCu6fp5jpm5jO1Nl7UgF6YlJsXFX\nOlClzY9AMxd5QuO5eBbkaTej/XVHDwWSqomxYyfOn4YlNkO37bM6x4AxSzJnpjk5\nGc7xYazttUw5pg7JL0tMyetOBy07vXT08VjwXJJhDXdprnIPkSoSpgw/MUGFPTl1\nOV04UloKmQEaTzNBp6lXMzcScLGd4yjDJTit9wb0NnzdGT8+KnkFk5ItKjWX6mZ6\nHOkRKbihlvUqSYJZt3oCYeSWhH12Uapo/pvNcBXtYMr92viqbtQfFi1EMU1Y8Yvr\n0gBu+Vm/Fe+xL+5kbRCpSTJ/Is828SZiV23rQShZXBkuCDPzeVA=\n-----END CERTIFICATE-----\n",
+      "key" : "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n"
+   },
+   "hostname" : "testsite",
+   "siteid" : "s07dbff5024f29a49eeb33baaa6d47375a473c87b"
+}

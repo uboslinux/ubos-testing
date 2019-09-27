@@ -2,7 +2,14 @@
    "appconfigs" : [
       {
          "appid" : "mastodon",
-         "context" : ""
+         "context" : "",
+         "customizationpoints" : {
+            "mastodon" : {
+               "singleusermode" : {
+                  "value" : true
+               }
+            }
+         }
       }
    ],
    "admin" : {
