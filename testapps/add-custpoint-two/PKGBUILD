@@ -1,0 +1,18 @@
+developer=http://indiecomputing.com/
+url=${developer}
+maintainer=${developer}
+pkgname=add-custpoint
+pkgver=2.0
+pkgrel=1
+pkgdesc="Test app for adding a customizationpoint in the upgraded version"
+arch=('any')
+license=("AGPL3")
+depends=()
+
+package() {
+# Manifest
+    install -D -m644 ${startdir}/ubos-manifest.json ${pkgdir}/ubos/lib/ubos/manifests/${pkgname}.json
+
+# Template
+    install -D -m644 ${startdir}/tmpl/* -t ${pkgdir}/ubos/share/${pkgname}/tmpl/
+}

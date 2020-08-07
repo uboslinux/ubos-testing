@@ -1,0 +1,20 @@
+{
+    "type" : "app",
+
+    "cardinality" : "onepersite",
+
+    "roles" : {
+        "generic" : {
+            "depends" : [
+            ],
+            "appconfigitems" : [
+                {
+                    "type"         : "file",
+                    "name"         : "/tmp/vars",
+                    "template"     : "tmpl/vars",
+                    "templatelang" : "varsubst"
+                }
+            ]
+        }
+    }
+}

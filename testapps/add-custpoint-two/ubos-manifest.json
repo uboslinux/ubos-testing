@@ -1,0 +1,30 @@
+{
+    "type" : "app",
+
+    "cardinality" : "onepersite",
+
+    "roles" : {
+        "generic" : {
+            "depends" : [
+            ],
+            "appconfigitems" : [
+                {
+                    "type"         : "file",
+                    "name"         : "/tmp/vars",
+                    "template"     : "tmpl/vars",
+                    "templatelang" : "varsubst"
+                }
+            ]
+        }
+    },
+    "customizationpoints" : {
+        "x" : {
+            "name"    : "x",
+            "type"    : "string",
+            "required" : false,
+            "default" : {
+                "value" : "XXX default value for x XXX"
+            }
+        }
+    }
+}
