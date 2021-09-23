@@ -1,0 +1,17 @@
+{
+   "admin" : {
+      "username" : "admin",
+      "email" : "test@ubos.net",
+      "credential" : "qwerqwer",
+      "userid" : "admin"
+   },
+   "appconfigs" : [
+      {
+         "appconfigid" : "a0dc803131ef13bb14ef7ea5022624f3763435312",
+         "appid" : "wordpress",
+         "context" : "/testpath"
+      }
+   ],
+   "siteid" : "s84ac6e2bd255f21b69ffec517c8428d76bedc417",
+   "hostname" : "testsite"
+}

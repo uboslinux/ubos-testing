@@ -1,0 +1,30 @@
+{
+   "siteid" : "s8e0b1908fa9d43a4255c68d16c3576205361c32d",
+   "hostname" : "testsite",
+   "appconfigs" : [
+      {
+         "context" : "/deck",
+         "customizationpoints" : {
+            "decko-newrelic" : {
+               "appname" : {
+                  "value" : "mydecko"
+               },
+               "licensekey" : {
+                  "value" : "PLACEHOLDER"
+               }
+            }
+         },
+         "accessoryids" : [
+            "decko-newrelic"
+         ],
+         "appid" : "decko",
+         "appconfigid" : "a6599cd1bc97806d0b9602a436555f0cd2b32ade9"
+      }
+   ],
+   "admin" : {
+      "userid" : "admin",
+      "credential" : "qwerqwer",
+      "email" : "test@ubos.net",
+      "username" : "admin"
+   }
+}
