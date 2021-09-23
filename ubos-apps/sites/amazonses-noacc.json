@@ -1,0 +1,27 @@
+{
+   "hostname" : "testsite",
+   "siteid" : "sbea7c78fc63d0b40c9930e69669d594e3275acc5",
+   "admin" : {
+      "userid" : "admin",
+      "username" : "admin",
+      "email" : "test@ubos.net",
+      "credential" : "qwerqwer"
+   },
+   "appconfigs" : [
+      {
+         "customizationpoints" : {
+            "amazonses" : {
+               "aws_secret_key" : {
+                  "value" : "0123456789012345678901234567890123456789"
+               },
+               "aws_access_key_id" : {
+                  "value" : "01234567890123456789"
+               }
+            }
+         },
+         "appid" : "amazonses",
+         "appconfigid" : "afd06b308eac6cfe4e6910124efaeb5f887765134"
+      }
+   ]
+}
+
