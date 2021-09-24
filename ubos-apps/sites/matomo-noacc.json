@@ -1,0 +1,18 @@
+{
+   "admin" : {
+      "credential" : "qwerqwer",
+      "userid" : "admin",
+      "email" : "test@ubos.net",
+      "username" : "admin"
+   },
+   "siteid" : "sdbe2369ed74da818977388b16e239c7338600243",
+   "appconfigs" : [
+      {
+         "appconfigid" : "a243f4d5c090d0ad60617cba89dc2f636d2f8bb66",
+         "context" : "/matomo",
+         "appid" : "matomo"
+      }
+   ],
+   "hostname" : "testsite"
+}
+

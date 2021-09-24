@@ -14,11 +14,9 @@
             "nextcloud-cache-redis",
             "nextcloud-calendar",
             "nextcloud-contacts",
-            "nextcloud-mail",
             "nextcloud-markdown",
             "nextcloud-news",
             "nextcloud-notes",
-            "nextcloud-onlyoffice",
             "nextcloud-spreed",
             "nextcloud-tasks"
          ],
