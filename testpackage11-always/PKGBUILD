@@ -2,7 +2,10 @@ developer=http://indiecomputing.com/
 url=${developer}
 maintainer=${developer}
 pkgname=$(basename $(pwd))
-pkgver=$(date -u +%Y.%m.%d.%H.%M.%S)
+pkgver=2023.11.12.00.31.00
+# Change this pkgver manually to this value: date -u +%Y.%m.%d.%H.%M.%S
+# We cannot automatically generate this here, because macrobuild reads this variable, and then
+# makepkg does, and the timestamp may not match, breaking the build
 pkgrel=1
 pkgdesc="Test package that always needs to be rebuilt"
 arch=('any')
