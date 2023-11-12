@@ -1,0 +1,15 @@
+developer=http://indiecomputing.com/
+url=${developer}
+maintainer=${developer}
+pkgname=$(basename $(pwd))
+pkgver=$(date -u +%Y.%m.%d.%H.%M.%S)
+pkgrel=1
+pkgdesc="Test package that always needs to be rebuilt"
+arch=('any')
+license=("AGPL3")
+depends=()
+
+package() {
+    mkdir -p ${pkgdir}/usr/share/${pkgname}
+    echo "Package ${pkgname}, version: ${pkgver}-${pkgrel}" > ${pkgdir}/usr/share/${pkgname}/VERSION
+}
